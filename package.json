@@ -40,7 +40,7 @@
     "gm": "^1.23.0",
     "jsonwebtoken": "^8.5.1",
     "marked": "^0.3.6",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "mongodb": "^2.2.25",
     "mongoose": "^4.9.3",
     "morgan": "^1.10.0",
