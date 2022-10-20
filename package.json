@@ -42,7 +42,7 @@
     "marked": "^0.3.6",
     "moment": "^2.18.1",
     "mongodb": "^2.2.25",
-    "mongoose": "^4.9.3",
+    "mongoose": "^4.13.21",
     "morgan": "^1.10.0",
     "node-fetch": "^1.6.3",
     "nodejs-websocket": "^1.7.2",
